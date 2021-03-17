@@ -4,13 +4,21 @@
 
 .info{
   text-align: center;
-  border: 1px solid black;
+  border: 2px solid black;
+  padding: 15px;
 }
 h2 {
   background-color: blue;
   color: red;
 }
 h3 {
-  background-color: orange;
-  color: brown;
+  background-color: aqua;
+  color: orange;
+}
+img {
+  border: 1px dashed black;
+  border-radius: 3px;
+  padding: 5px;
+  width: 250px;
+  padding: 10px;
 }
