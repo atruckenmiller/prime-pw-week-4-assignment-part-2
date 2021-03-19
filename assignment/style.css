@@ -5,20 +5,22 @@
 .info{
   text-align: center;
   border: 2px solid black;
-  padding: 15px;
+  padding: 12.5px;
 }
+
 h2 {
-  background-color: blue;
-  color: red;
+  background-color: #66c2ff;
+  color: #ff0000;
 }
+
 h3 {
-  background-color: aqua;
-  color: orange;
+  background-color: #80ffbf;
+  color: #ff8533;
 }
+
 img {
-  border: 1px dashed black;
+  border: 2px dashed blue;
   border-radius: 3px;
+  width: 450px;
   padding: 5px;
-  width: 250px;
-  padding: 10px;
 }
