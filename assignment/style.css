@@ -5,7 +5,7 @@
 .info{
   text-align: center;
   border: 2px solid black;
-  padding: 12.5px;
+  padding: 10px;
 }
 
 h2 {
@@ -14,13 +14,13 @@ h2 {
 }
 
 h3 {
-  background-color: #80ffbf;
-  color: #ff8533;
+  background-color: #38f024;
+  color: #1438c9;
 }
 
 img {
   border: 2px dashed blue;
-  border-radius: 3px;
-  width: 450px;
-  padding: 5px;
+  border-radius: 2px;
+  width: 400px;
+  padding: 10px;
 }
